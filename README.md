@@ -31,7 +31,7 @@ npm install react-router-dom
 
 프로젝트 생성후 demo에 파일을 넣어주고 application.properties를 교체 or 복붙으로 내용을 바꿔준다.
 
-h2가 실행되어 있어야하며 h2정보가 바뀌면 application.properties내용을 바꿔줘야한다.
+h2가 실행되어 있어야하며 기본 h2정보가 바뀌면 application.properties내용을 바꿔줘야한다.
 
 또한 fileController에서 이미지를 저장할 path경로를 자신의 컴퓨터 경로에 맞게 설정해주고 
 
