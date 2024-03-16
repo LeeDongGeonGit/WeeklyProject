@@ -21,6 +21,7 @@ npm install react-router-dom
  npm start를 쳐준다.
 
  backEnd
+ 
  spring-boot에서 new -> spring starter project를 클릭후 
  
  maven으로 설정하고 자바버전 17로 선택
