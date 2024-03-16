@@ -3,13 +3,21 @@
 https://github.com/LeeDongGeonGit/WeeklyProject/assets/149302310/74327158-8579-4d1f-afd3-bce5a6caceee
 
 frontEnd
+
 npx create-react-app recipe-web
+
 로 리액트파일을 만들고 명령창으로 들어가서
+
 npm install react-bootstrap bootstrap
+
 npm install react-router-dom
+
  npm install axios
+ 
  이것들을 깔아준다.
+ 
  그후 src파일을 교체해주고
+ 
  npm start를 쳐준다.
 
  backEnd
